@@ -56,7 +56,7 @@ Hệ thống quản lý đăng ký khóa học online là ứng dụng web đư�
 - Trang giảng viên
 <img src="docs\logo\ảnh4.jpg"alt="Trang giảng viên" width="180"/>
 - Trang quản trị viên
-<img src="docs\logo\ảnh1.jpg"alt="Trang quản trị viên" width="180"/>
+<img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/%E1%BA%A3nh1.jpg"alt="Trang quản trị viên" width="180"/>
 ### 👩‍🎓 Học viên
 - Đăng ký tài khoản, đăng nhập  
 - Xem danh sách & chi tiết khóa học  
