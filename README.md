@@ -10,12 +10,14 @@
 
 <div align="center">
     <p align="center">
-    [![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
-    [![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
-    [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
-        
+        <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/aiotlab_logo.png" alt="AIoT Logo" width="170"/>
+        <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/fitdnu_logo.png" alt="FIT Logo" width="180"/>
+        <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
 
