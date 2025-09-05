@@ -10,11 +10,17 @@
 
 <div align="center">
     <p align="center">
-        <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/aiotlab_logo.png"alt="aIOT Logo" width="180"/>
-        <img src="docs/logo/fitdnu_logo.png" alt="FIT Logo" width="180"/>
-        <img src="docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+        <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/aiotlab_logo.png" alt="AIoT Logo" width="170"/>
+        <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/fitdnu_logo.png" alt="FIT Logo" width="180"/>
+        <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
 
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)  
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)  
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
 
@@ -35,9 +41,9 @@ Hệ thống quản lý đăng ký khóa học online là ứng dụng web đư�
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 ### Công nghệ chính
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 ### Cơ sở dữ liệu
@@ -48,15 +54,20 @@ Hệ thống quản lý đăng ký khóa học online là ứng dụng web đư�
 ---
 
 ## 🚀 3. Các chức năng chính
-### Giao diện
-- Trang đăng nhập
- <img src="docs\logo\ảnh2.jpg"alt="Trang đăng nhập" width="180"/>
-- Trang học viên
-<img src="docs\logo\ảnh3.jpg"alt="Trang học viên" width="180"/>
-- Trang giảng viên
-<img src="docs\logo\ảnh4.jpg"alt="Trang giảng viên" width="180"/>
-- Trang quản trị viên
-<img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/%E1%BA%A3nh1.jpg"alt="Trang quản trị viên" width="180"/>
+
+### 🖥️ Giao diện
+- **Trang đăng nhập**  
+  <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/anh2.jpg" alt="Trang đăng nhập" width="400"/>
+
+- **Trang học viên**  
+  <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/anh3.jpg" alt="Trang học viên" width="400"/>
+
+- **Trang giảng viên**  
+  <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/anh4.jpg" alt="Trang giảng viên" width="400"/>
+
+- **Trang quản trị viên**  
+  <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/anh1.jpg" alt="Trang quản trị viên" width="400"/>
+
 ### 👩‍🎓 Học viên
 - Đăng ký tài khoản, đăng nhập  
 - Xem danh sách & chi tiết khóa học  
