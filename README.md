@@ -63,7 +63,7 @@ Hệ thống quản lý đăng ký khóa học online là ứng dụng web đư�
   <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/%E1%BA%A3nh3.jpg" alt="Trang học viên" width="400"/>
 
 - **Trang giảng viên**  
-  <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/anh4.jpg" alt="Trang giảng viên" width="400"/>
+  <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/%E1%BA%A3nh4.jpg" alt="Trang giảng viên" width="400"/>
 
 - **Trang quản trị viên**  
   <img src="https://github.com/Duongx66/Nhom4/blob/main/docs/logo/%E1%BA%A3nh4.jpg" alt="Trang quản trị viên" width="400"/>
